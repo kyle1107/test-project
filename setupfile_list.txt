@@ -1,0 +1,21 @@
+git hub
+
+git bash
+-검색하면 나옴
+-git config --global user.name "깃헙 닉네임"
+-git config --global user.email "깃헙 이메일"
+-git init 초기화
+-git add . 현재 있는 파일 다 추가하겠다.
+-git commit -m "현재 진행파일 이름" 내가한 파일을 ""의 이름으로 저장
+-git push origin master 내가 그냥 합침 ㅅㄱ
+-git checkout -b 파일   파일 이라는 공간을 하나더만듬
+
+-git remote add origin "깃헙 코딩올리는 페이지"
+- git clone "깃헙 코딩 페이지" 코딩페이지 코드 다운받음
+wapm
+-php작동,bitnami에서 설치하기
+visual studio code
+-auto tag 
+-live server
+-prettier
+설치
