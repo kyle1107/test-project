@@ -14,6 +14,8 @@ git bash
 - git clone "깃헙 코딩 페이지" 코딩페이지 코드 다운받음
 wapm
 -php작동,bitnami에서 설치하기
+node.js
+php 대신 쓸수 있는 것으로 javascripts로 서버 스크립트를 만드는 것
 visual studio code
 -auto close tag 
 -auto rename tag
