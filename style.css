@@ -1,3 +1,22 @@
 #pool{
     color : red;
 }
+
+table{
+    
+width: 500px; height: 300px;
+
+border-collapse: collapse;
+}
+
+.ttt{
+    background-color: violet;
+}
+td{
+    font-size: 25px;
+    
+    color: black;
+    background-color: rgb(232, 252, 209);
+}
+
+
